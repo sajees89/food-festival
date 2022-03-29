@@ -1,0 +1,24 @@
+{
+  "name": "Food Event",
+  "short_name": "Foodies",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".../index.html",
+  "description": "An app that allows you to view ipcoming food events.",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff",
+  "icoms": [
+    {
+      "src": "C:\\Users\\sajee\\desktop\\projects\\food-festival\\assets\\img\\icons\\icon-512x512.png",
+      "sizes": [
+        96,
+        128,
+        192,
+        256,
+        384,
+        512
+      ],
+      "destination": "assets\\icons"
+    }
+  ]
+}
